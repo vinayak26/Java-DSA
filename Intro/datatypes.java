@@ -1,3 +1,4 @@
+package Intro;
 public class datatypes {
     public static void main(String[] args) {
         int age = 22;
@@ -9,3 +10,4 @@ public class datatypes {
 
     }
 }
+ 
